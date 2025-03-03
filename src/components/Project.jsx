@@ -18,7 +18,7 @@ function Project() {
             title: "Social Media App",
             description: "Real-time social platform with modern features",
             image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?auto=format&fit=crop&q=80&w=800",
-            tech: ["React Native", "Firebase", "Redux"],
+            tech: ["React", "Firebase", "Redux"],
         },
 
     ]
